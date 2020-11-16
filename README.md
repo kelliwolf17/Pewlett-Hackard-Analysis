@@ -8,7 +8,9 @@ After providing some analysis, it was determined that:
 * From the retirement_titles table, we know that many of the employees that are of retirement age have worked several roles throughout their time at PH. We were able to pull 133,776 titles. 
 * Then from the unique_titles tables, we narrowed down the retirement_titles table to give us distinct names and their current role. We were able to pull 90,398 employees, so over 40K employees had more than one role at PH that are of retirement age.
 * Then from the retiring_titles, we pulled the list of titles/positions that will need to be filled once the retirees actually retire. The list is shown below.
-<insert png here>
+
+![retiring_titles](https://user-images.githubusercontent.com/71397190/99208319-b540f980-2785-11eb-9b14-70f12c3ba869.PNG)
+
 * Lastly, from the mentorship_eligibility table we were able to pull a list of 1,549 employees who fit the requirements of those who are eligibile to participate in a mentorship program.
 
 # Summary
